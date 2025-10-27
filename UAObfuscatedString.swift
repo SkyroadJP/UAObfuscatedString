@@ -170,7 +170,7 @@ public extension String {
     var ampersand: String { return self + "&" }
     var caret: String { return self + "^" }
     var percent: String { return self + "%" }
-    var `$`: String { return self + "$" }
+    var dollar: String { return self + "$" }
     var pound: String { return self + "#" }
     var at: String { return self + "@" }
     var exclamation: String { return self + "!" }
